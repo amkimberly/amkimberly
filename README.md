@@ -20,7 +20,7 @@
 ## :bar_chart: My github stats
 
 <a href="https://github.com/amkimberly/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amkimberly&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amkimberly&theme=synthwave" />
 </a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=amkimberly&theme=synthwave" />
