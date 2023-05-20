@@ -13,7 +13,7 @@
 ## My tools and Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,vscode,html,css,rails&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,rails,vscode&theme=dark" />
   </a>
 </p>
 
